@@ -2,3 +2,4 @@ This code takes input data for spheres to create an image using ray tracing that
 
 Here is the image produced by this code, for the initial parameters:
 
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
